@@ -1,2 +1,2 @@
-# Low-Latency-C-
+# Low-Latency-Cpp
 Practicing programs.
